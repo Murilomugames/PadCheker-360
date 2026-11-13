@@ -4,7 +4,7 @@
 
 O PadCheck 360 usa o projeto aberto [xsdk](https://github.com/xenosworks/xsdk) para criar um titulo `.xex`. Este pacote contem o codigo-fonte; nao inclui um executavel `.xex` compilado ou testado em console real.
 
-## Novidades da versao 0.2.0
+## Novidades da versão 0.2.0
 
 - Leitura simultanea dos quatro slots de controle: P1, P2, P3 e P4.
 - Painel detalhado por jogador. Use o direcional esquerdo/direito do primeiro controle conectado (normalmente P1) para trocar o jogador exibido.
