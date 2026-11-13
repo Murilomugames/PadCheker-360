@@ -38,7 +38,7 @@ jobs:
           PREFIX="$HOME/xsdk-gcc" \
           WORK="$HOME/xsdk-gcc-work" \
           JOBS="$(nproc)" \
-          tools/toolchain/build.sh
+          bash tools/toolchain/build.sh
 
       - name: Build xsdk libraries
         run: |
